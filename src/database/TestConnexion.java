@@ -18,3 +18,4 @@ public class TestConnexion {
         }
     }
 }
+//Connexion à la base
